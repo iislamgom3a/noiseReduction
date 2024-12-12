@@ -70,7 +70,4 @@ pip install numpy scipy matplotlib
 - You can tweak the peak detection parameters (e.g., `height` and `distance`) for different results.
 
 ## Authors 
-- Islam Mohamad Gomaa
-- Mokhtar wael 
-- Anas osama
-
+- Islam Gomaa
