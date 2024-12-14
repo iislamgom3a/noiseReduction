@@ -68,6 +68,3 @@ pip install numpy scipy matplotlib
 ## Notes
 - Adjust the `lowcut` and `highcut` variables in the script to change the bandpass filter range.
 - You can tweak the peak detection parameters (e.g., `height` and `distance`) for different results.
-
-## Authors 
-- Islam Gomaa
